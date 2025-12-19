@@ -1,8 +1,9 @@
 Hey, I'm Karsten. 
 
-I am focused on mobile application development using React Native and Swift, as well as Cybersecurity and Machine Learning research. I also maintain a strong foundation in systems programming, building high-performance tools like C++ image metadata managers.
+I am a Software Engineer engaged in building robust systems and high-performance tools. My foundation is in systems programming and cybersecurity research, where I’ve engineered C++ image processing engines and privacy-preserving ML frameworks.
 
-Languages and Tools: C++, Python, Java, JavaScript, Swift, SQL, React Native, Firebase, Docker, Selenium, Git, Linux
+I extend these systems to the edge with native mobile development, specializing in building offline-first iOS applications using Swift, SwiftUI, and SwiftData.
 
+Languages and Tools: C++, Python, Swift (SwiftUI, SwiftData), SQL, Java, React Native, Docker, Git, System Architecture & REST API Design, Machine Learning, NoSQL, CI/CD
 
 And here is what I've been up to:
