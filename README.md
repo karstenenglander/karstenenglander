@@ -4,6 +4,6 @@ I am a Software Engineer engaged in building robust systems and high-performance
 
 I extend these systems to the edge with native mobile development, specializing in building offline-first iOS applications using Swift, SwiftUI, and SwiftData.
 
-Languages and Tools: C++, Python, Swift (SwiftUI, SwiftData), SQL, Java, React Native, Docker, Git, System Architecture & REST API Design, NoSQL, CI/CD
+Languages and Tools: C++, Python, Swift (SwiftUI, SwiftData), SQL, Java, React Native, Docker, Git, NoSQL, CI/CD, System Architecture & REST API Design
 
 And here is what I've been up to:
